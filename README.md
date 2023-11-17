@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first project
 <br>
-Author - kaustubh zade
+Author - kaustubh (apna college)
